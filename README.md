@@ -3,7 +3,7 @@ Windows Script for auto commit on github
 <br/>
 
 <h1>TUTORIAL<h1/>
-Step 1: Open Window PowerShell
-Step 2: cd to the script folder
-Step 3: Modify the Repo-path to your repo
-Step 4: Run <code>.\commit-bot.ps1\</code>
+Step 1: Open Window PowerShell <br/>
+Step 2: cd to the script folder <br/>
+Step 3: Modify the Repo-path to your repo <br/>
+Step 4: Run <code>.\commit-bot.ps1\</code> <br/>
